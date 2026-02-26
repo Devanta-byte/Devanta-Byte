@@ -1,24 +1,41 @@
 # 👋 Hi, I'm Devanta-Byte!
 
+Welcome to my GitHub profile!
+
 ## 💻 About Me
-I'm currently learning Git, GitHub, and web development fundamentals.
-I believe every commit is progress.
+I’m a beginner developer currently building strong foundations in Git, GitHub, and web development. I’m passionate about learning how real-world development workflows work — from creating branches to merging pull requests.
 
-## 🚀 Current Focus
-- Git branching
-- Pull requests
+I believe every small improvement adds up, and every commit is progress.
+
+## 🚀 What I’m Currently Learning
+- Git & version control workflows
+- Branching and pull requests
 - Repository management
-- HTML & CSS basics
+- HTML fundamentals
+- CSS basics
 
-## 🛠 Tools
+## 🛠 Tools I’m Using
 - Git
 - GitHub
 - VS Code
-- Terminal
+- Mac Terminal
 
-## 🎯 2026 Goal
-Become confident in collaborative coding and version control.
+## 🎯 My 2026 Goals
+- Master Git branching strategies
+- Build and deploy complete web projects
+- Collaborate confidently on team repositories
+- Contribute to open-source projects
+- Grow from beginner to job-ready developer
+
+## 📈 My Development Mindset
+I approach coding with curiosity, patience, and consistency.  
+I’m focused on learning the right way — understanding not just *how* to do something, but *why* it works.
+
+Every bug is a lesson.  
+Every branch is growth.  
+Every merge is progress.
 
 ---
 
-Thanks for visiting my profile!
+Thanks for visiting my profile! ⭐  
+Let’s build something great.

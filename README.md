@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Devanta-Byte!
 
-<!--
-**Devanta-byte/Devanta-Byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+I'm currently learning Git, GitHub, and web development fundamentals.
+I believe every commit is progress.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
+- Git branching
+- Pull requests
+- Repository management
+- HTML & CSS basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools
+- Git
+- GitHub
+- VS Code
+- Terminal
+
+## 🎯 2026 Goal
+Become confident in collaborative coding and version control.
+
+---
+
+Thanks for visiting my profile!

@@ -1,4 +1,6 @@
 # 👋 Hi, I'm Devanta-Byte!
+![Animated Banner](devanta-byte-animated.gif)
+
 
 Welcome to my GitHub profile!
 
